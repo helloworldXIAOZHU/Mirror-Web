@@ -1,4 +1,4 @@
-# Mirror-Web
+# Xiaozhu-Mirror
 
 ## 一个由IPFS支持的镜像站
 
